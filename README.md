@@ -8,10 +8,6 @@
 
 
 ```sh
-## Технические навыки:
-HTML
-CSS
-JavaScript
-React
-Express
-Git
+Технические навыки:
+```sh
+HTML CSS JavaScript React Express Git
