@@ -7,5 +7,5 @@
 Я умею программировать на JavaScript и знаю, как использовать Git.
 
 
-```sh
-Технические навыки: HTML CSS JavaScript React Express Git
+| Технические навыки: |  
+| HTML | | CSS | | JavaScript | | React | | Express | | Git |
