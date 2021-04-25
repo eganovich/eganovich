@@ -8,4 +8,5 @@
 
 
 | Технические навыки: |  
+| ------ |
 | HTML | | CSS | | JavaScript | | React | | Express | | Git |
