@@ -8,11 +8,10 @@
 
 
 ```sh
-* Технические навыки: *
+## Технические навыки:
 HTML
 CSS
 JavaScript
 React
 Express
 Git
-`
